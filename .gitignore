@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+out/
+*.log
+_srv.log
+_srv.err
+.hf_cache/
+.DS_Store
