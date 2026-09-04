@@ -1,5 +1,7 @@
 # Phosphene — real-time diffusion band
 
+![Phosphene: a scrolling psychedelic diffusion band](docs/preview.gif)
+
 Draw on a canvas and a real diffusion model turns your marks into a
 **living, endlessly-scrolling psychedelic band**. Each frame the field flows
 (left / outward / in place), reinventing itself as the seed drifts — running in
